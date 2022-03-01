@@ -1,1 +1,1 @@
-echo "NEW STUFF" >> README.md
+git pull remotename branchname
